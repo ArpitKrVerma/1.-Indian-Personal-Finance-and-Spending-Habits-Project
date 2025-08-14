@@ -1,0 +1,2 @@
+Developed and evaluated predictive regression models using deep learning Neural Networks, Machine Learning bagging and boosting algorithms like Random Forest and XGBoost on a large financial dataset. Applied data preprocessing, feature engineering and model tuning. Utilized performance metrics (MSE, MAE, R²) and visualizations for model comparison. Demonstrated skills in Python, machine learning, data analysis, data science, model evaluation and visualization using libraries such as numpy, pandas, matplotlib, seaborn, scikit-learn, TensorFlow etc.
+
